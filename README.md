@@ -1,4 +1,1 @@
-# TomApp
-# TomApp
-# Maze
 # Maze
